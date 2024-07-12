@@ -12,7 +12,7 @@ This application simulates a social network graph, where users can check their f
 - java Main
 
 # Follow the On-screen Prompts
-- Input the file path containing user data.
+- Input the file path containing user data (Trinity100 or Harvard1)
 - Choose options from the main menu to interact with the application.
 # File Format
 The input file should follow the format:
