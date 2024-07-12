@@ -5,16 +5,16 @@ INSTRUCTIONS
 Social Network Graph Application
 This application simulates a social network graph, where users can check their friends list and find connections between any two users.
 
-# -Compile the Code
+# Compile the Code
 - javac Main.java FileReader.java Record.java PathFinder.java
 
-# -Run the Application
+# Run the Application
 - java Main
 
-# -Follow the On-screen Prompts
+# Follow the On-screen Prompts
 - Input the file path containing user data.
 - Choose options from the main menu to interact with the application.
-# -File Format
+# File Format
 The input file should follow the format:
 - First line: Total number of users and total number of connections.
 - Subsequent lines: Pairs of user IDs representing connections.
@@ -26,12 +26,12 @@ The input file should follow the format:
 2 3
 3 4
 
-# -Main Menu Options
+# Main Menu Options
 Get Friend List
 - Enter a user ID to see the list of friends for that user.
-# -Get Connection
+# Get Connection
 - Enter two user IDs to see the connection path between them if it exists.
-# -Example Session
+# Example Session
 
 - Get Friend List
 
