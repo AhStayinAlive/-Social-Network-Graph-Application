@@ -21,10 +21,7 @@ The input file should follow the format:
 
 # -Example:
 5 4
-0 1
-1 2
-2 3
-3 4
+
 
 # Main Menu Options
 Get Friend List
