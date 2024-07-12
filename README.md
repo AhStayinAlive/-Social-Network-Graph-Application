@@ -42,8 +42,11 @@ List of friends: [0, 2]
 - Get Connection
 
 Enter ID of person A: 0
+
 Enter ID of person B: 3
+
 There is a connection from 0 to 3!
+
 0 is friends with 1
 1 is friends with 2
 2 is friends with 3
